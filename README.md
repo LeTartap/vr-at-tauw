@@ -11,7 +11,7 @@
 
 ---
 
-## [Full Report] (./IITO Final report.pdf)
+## [Full Report](./IITO%20Final%20report.pdf)
 
 ## 1. Project Overview
 
