@@ -11,6 +11,8 @@
 
 ---
 
+## [Full Report] (./IITO Final report.pdf)
+
 ## 1. Project Overview
 
 This report outlines a strategic plan for the implementation of Virtual Reality (VR) technology at **TAUW**, an international engineering and environmental consultancy firm. The project aims to leverage VR to enhance stakeholder engagement, improve project visualization, and streamline design processes, thereby giving TAUW a competitive advantage in the market. The primary motivation is to address the limitations of traditional 2D models and improve communication with clients and stakeholders who may not have a technical background.
